@@ -1,13 +1,13 @@
-// package edu.iu.romanju.primesservice;
+package edu.iu.romanju.primesservice;
 
-// import org.junit.jupiter.api.Test;
-// import org.springframework.boot.test.context.SpringBootTest;
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
 
-// @SpringBootTest
-// class PrimesServiceApplicationTests {
+@SpringBootTest
+class PrimesServiceApplicationTests {
 
-// 	@Test
-// 	void contextLoads() {
-// 	}
+	@Test
+	void contextLoads() {
+	}
 
-// }
+}
